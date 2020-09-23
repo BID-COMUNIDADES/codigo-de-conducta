@@ -1,8 +1,8 @@
-# [colombia.dev] - Código de Conducta
+# Código para el Desarrollo slack - Código de Conducta
 
 ## 1. Propósito
 
-Uno de los objetivos principales de `colombia.dev` es ser inclusiva para el 
+Uno de los objetivos principales de `Código para el Desarrollo` es ser una iniciativa inclusiva para el 
 mayor número de contribuyentes, con la mayor diversidad de orígenes posibles.
 Como tal, estamos comprometidos a proporcionar un ambiente agradable, seguro y
 acogedor para todos, independientemente de su sexo, orientación sexual, 
@@ -12,7 +12,7 @@ Este código de conducta resume nuestras expectativas para todos los que
 participan en nuestra comunidad, así como las consecuencias para el 
 comportamiento inaceptable.
 
-Invitamos a todos los que participan en `colombia.dev` a que nos ayuden a crear
+Invitamos a todos los que participan en `Código para el Desarrollo` a que nos ayuden a crear
 experiencias seguras y positivas para todos.
 
 ## 2. Ciudadanía de [Software / Cultura / Tecnología] Libre
@@ -79,7 +79,7 @@ evento de pago).
 Si eres víctima o testigo de una conducta inaceptable, o tienes cualquier 
 inquietud, por favor comunícate con un organizador del meetup lo antes posible. 
 
-Email: hola@colombia-dev.org
+Email: code@iadb.org
 
 Adicionalmente, los organizadores comunitarios están disponibles para ayudar
 a miembros de la comunidad a contactar a la policía local o interceder para que
@@ -118,7 +118,7 @@ grupos de estudio, y eventos virtuales.
     comunidad. Si un organizador crea una situación inadecuada, este será 
     juzgado con un estándar más alto.
 
-En la comunidad `colombia.dev` nos esforzamos por ir un paso más allá y cuidar 
+En la comunidad `Código para el Desarrollo` nos esforzamos por ir un paso más allá y cuidar 
 el uno del otro. No se limite a tratar de mostrar su excelencia técnica, trate 
 también de ser la mejor persona posible. En particular, evite tocar temas 
 ofensivos o sensibles, especialmente si están fuera del tema tratado; esto muy a
@@ -149,8 +149,8 @@ comunicaciones de uno-a-uno pertinentes a los negocios de la comunidad.
 
 ## 9. Contacto
 
-- hola@colombia-dev.org
-- [@colombia_dev](https://twitter.com/colombia_dev)
+- code@iadb.org
+- dlorenac@iadb.org
 
 ## 10. Licencia y atribución
 
